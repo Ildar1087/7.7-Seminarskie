@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\bin\Debug\net6.0\52.DZSredArifVStolbce.exe
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\bin\Debug\net6.0\52.DZSredArifVStolbce.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\bin\Debug\net6.0\52.DZSredArifVStolbce.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\bin\Debug\net6.0\52.DZSredArifVStolbce.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\bin\Debug\net6.0\52.DZSredArifVStolbce.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\refint\52.DZSredArifVStolbce.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\52.DZSredArifVStolbce.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\52.DZSredArifVStolbce\obj\Debug\net6.0\ref\52.DZSredArifVStolbce.dll
