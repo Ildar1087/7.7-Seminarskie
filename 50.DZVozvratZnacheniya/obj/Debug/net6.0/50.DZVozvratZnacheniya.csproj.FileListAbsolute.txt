@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\bin\Debug\net6.0\50.DZVozvratZnacheniya.exe
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\bin\Debug\net6.0\50.DZVozvratZnacheniya.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\bin\Debug\net6.0\50.DZVozvratZnacheniya.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\bin\Debug\net6.0\50.DZVozvratZnacheniya.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\bin\Debug\net6.0\50.DZVozvratZnacheniya.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\refint\50.DZVozvratZnacheniya.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\50.DZVozvratZnacheniya.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\50.DZVozvratZnacheniya\obj\Debug\net6.0\ref\50.DZVozvratZnacheniya.dll
