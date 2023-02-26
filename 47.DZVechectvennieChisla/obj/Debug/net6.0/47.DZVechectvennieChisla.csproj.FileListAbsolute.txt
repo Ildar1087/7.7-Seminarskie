@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\bin\Debug\net6.0\47.DZVechectvennieChisla.exe
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\bin\Debug\net6.0\47.DZVechectvennieChisla.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\bin\Debug\net6.0\47.DZVechectvennieChisla.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\bin\Debug\net6.0\47.DZVechectvennieChisla.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\bin\Debug\net6.0\47.DZVechectvennieChisla.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\refint\47.DZVechectvennieChisla.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\47.DZVechectvennieChisla.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\47.DZVechectvennieChisla\obj\Debug\net6.0\ref\47.DZVechectvennieChisla.dll
