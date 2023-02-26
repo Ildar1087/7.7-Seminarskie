@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\bin\Debug\net6.0\3zadachaDvumerniiMassive.exe
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\bin\Debug\net6.0\3zadachaDvumerniiMassive.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\bin\Debug\net6.0\3zadachaDvumerniiMassive.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\bin\Debug\net6.0\3zadachaDvumerniiMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\bin\Debug\net6.0\3zadachaDvumerniiMassive.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\refint\3zadachaDvumerniiMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\3zadachaDvumerniiMassive.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\3zadachaDvumerniiMassive\obj\Debug\net6.0\ref\3zadachaDvumerniiMassive.dll
