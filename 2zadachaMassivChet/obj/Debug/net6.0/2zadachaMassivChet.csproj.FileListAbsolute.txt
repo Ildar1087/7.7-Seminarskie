@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\bin\Debug\net6.0\2zadachaMassivChet.exe
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\bin\Debug\net6.0\2zadachaMassivChet.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\bin\Debug\net6.0\2zadachaMassivChet.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\bin\Debug\net6.0\2zadachaMassivChet.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\bin\Debug\net6.0\2zadachaMassivChet.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\refint\2zadachaMassivChet.dll
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\2zadachaMassivChet.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\7.7 семинарское\2zadachaMassivChet\obj\Debug\net6.0\ref\2zadachaMassivChet.dll
